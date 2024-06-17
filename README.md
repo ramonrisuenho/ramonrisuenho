@@ -1,3 +1,7 @@
+# 🤓 Ramon Risuenho
+
+**`CyberSec Consultant && Content Creator`**
+
 💻 With a background in Information Security, I was able to develop an expertise in protecting data and systems against the various threats of the digital world. Throughout my career, I have had the opportunity to help companies of different sizes implement robust security measures and projects, ensuring the confidentiality, integrity and availability of their information.
 
 🔐 I believe that information security should not be an obstacle to innovation. It should be a facilitator, allowing companies to explore the full potential of their resources and systems, in their cloud environment or not, without worrying about unnecessary risks.
